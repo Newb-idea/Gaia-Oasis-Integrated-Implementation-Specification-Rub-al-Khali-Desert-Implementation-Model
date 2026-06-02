@@ -39,6 +39,9 @@ A biological engine that converts inorganic matter into organic matter and conti
 水生 / Aquatic	ホテイアオイ	Eichhornia crassipes	重金属隔離・バイオマス生成 / Heavy metal isolation & Biomass generation
 水生 / Aquatic	ヨシ	Phragmites australis	根圏での物質浄化・循環 / Rhizosphere purification & Circulation
 陸上植物　セイタカアワダチソウ　Solidago altissima　アレロパシーによる陣地確保・深層根による地下炭素貯留
+地表被覆　ミント　Mentha揮発性化合物による害虫忌避・地表の高速グリーンマット形成
+土壌浄化	ドクダミ	Houttuynia cordata	強力な殺菌・有害成分の分解・土壌水分保持
+壁面被覆アイビーHedera helix建造物の断熱・砂塵の物理的吸着・垂直方向の緑化拠点形成
 植物 / Plant	イタドリ	Reynoutria japonica	硬質バイオマス蓄積・環境耐性 / Biomass accumulation & Resilience
 植物 / Plant	スギナ	Equisetum arvense	無機ケイ素の生物学的構造固定 / Biological silica fixation
 植物 / Plant	マツ	Pinus	長期炭素貯蔵・酸素発生 / Long-term carbon storage & Oxygen generation
