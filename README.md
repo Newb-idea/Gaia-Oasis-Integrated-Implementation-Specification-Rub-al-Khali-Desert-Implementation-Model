@@ -57,4 +57,32 @@ A biological engine that converts inorganic matter into organic matter and conti
 本ドキュメントは理論的シミュレーションに基づく「概念設計（思考実験）」です。実証実験は行われておらず、作成者は本プロトコルの安全性や運用結果について一切の責任を負いません。本技術は人類の共有財産として公開されるものであり、実装および運用に関わるリスクは全て実装主体に帰属します。
 This document is a "conceptual design (thought experiment)" based on theoretical simulations. No practical experiments have been conducted, and the author assumes no responsibility for the safety or operational results of this protocol. This technology is released as a common heritage of humanity, and all risks associated with implementation and operation remain with the implementer.
 
+Biological Component Specification: Strategic Modules
+生物構成仕様：戦略的モジュール
+1. Pine (Pinus): The Stability Anchor
+1. マツ（Pinus）：安定性のアンカー
+Function: Serves as a long-term carbon storage and stable oxygen generator.
 
+機能: 長期炭素貯蔵および安定した酸素生成源として機能する。
+
+Medical Utility: Pine needles and resin provide essential compounds for immune support, serving as a reliable health resource within isolated, closed environments.
+
+医療的有用性: 針葉および樹脂は免疫サポートに必要な成分を含み、孤立した閉鎖環境において信頼できる健康資源となる。
+
+Implementation Benefit: Highly durable and requires minimal maintenance, acting as the foundation for the self-sustaining cycle.
+
+実装上の利点: 極めて耐久性が高く最小限のメンテナンスで済むため、自律循環の土台として機能する。
+
+2. Hemp/Cannabis (Cannabis sativa): High-Efficiency Bio-Engine (Optional)
+2. 大麻（Cannabis sativa）：高効率バイオエンジン（オプション）
+Function: High-speed biomass production and rapid carbon fixation engine.
+
+機能: 高速なバイオマス生産および急速な炭素固定を行うエンジン。
+
+Medical/Material Utility: Seeds and fibers provide versatile resources for nutrition, textiles, and traditional medicinal applications.
+
+医療・材料的有用性: 種子や繊維は、栄養源、繊維資材、および伝統的な薬用応用としての多様な資源を提供する。
+
+Implementation Policy: This module is provided as an optional configuration. Implementation must strictly comply with local laws and utilize robust physical containment protocols ("Nutrient Starvation Switch") to prevent any external release.
+
+実装方針: 本モジュールはオプション構成として提供される。実装にあたっては、現地法令を厳守し、外部流出を防止するための堅牢な物理的封じ込めプロトコル（「栄養飢餓スイッチ」）を厳格に適用すること。
