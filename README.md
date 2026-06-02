@@ -43,6 +43,18 @@ A biological engine that converts inorganic matter into organic matter and conti
 植物 / Plant	マツ	Pinus	長期炭素貯蔵・酸素発生 / Long-term carbon storage & Oxygen generation
 動物 / Animal	ジャンボタニシ	Pomacea canaliculata	有機物摂食・無機質還元・速度調整 / Organic consumption & Inorganic reduction
 動物 / Animal	魚類 / Fish	Pisces	代謝プロセス統合・物質循環加速 / Metabolic integration & Circulation acceleration
-5. 免責事項（Legal Disclaimer）
+
+5. 閉鎖運用プロトコル（理論設計）
+物理的封じ込め: 完全気密構造により、系外への物質漏洩を遮断。
+
+栄養飢餓スイッチ: 系外への種や栄養の漏洩を検知した場合、必須元素（窒素・リン）をゲート制限し、プラントを物理的に封印（枯死）させる安全装置。
+
+抗酸化環境: 複合発酵（EM）技術により、代謝効率を極限まで高め、腐敗（エントロピー増大）を抑制。
+
+
+
+6. 免責事項（Legal Disclaimer）
 本ドキュメントは理論的シミュレーションに基づく「概念設計（思考実験）」です。実証実験は行われておらず、作成者は本プロトコルの安全性や運用結果について一切の責任を負いません。本技術は人類の共有財産として公開されるものであり、実装および運用に関わるリスクは全て実装主体に帰属します。
 This document is a "conceptual design (thought experiment)" based on theoretical simulations. No practical experiments have been conducted, and the author assumes no responsibility for the safety or operational results of this protocol. This technology is released as a common heritage of humanity, and all risks associated with implementation and operation remain with the implementer.
+
+
