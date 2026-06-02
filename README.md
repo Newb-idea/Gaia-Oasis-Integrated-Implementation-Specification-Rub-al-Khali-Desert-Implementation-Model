@@ -94,3 +94,44 @@ Implementation Policy: This module is provided as an optional configuration. Imp
 
 Gaia-OS Biological Component: Useful Compounds & Medicinal UtilityGaia-OS 生物構成要素：有用物質および医療的有用性名称 / Name主な有用成分 / Key Compounds医療・産業的有用性 / Medical & Industrial Utilityオオバナミズキンバイ / Ludwigia grandifloraPolyphenols, Antioxidants抗酸化・水質浄化のバイオセンサー / Antioxidant and bio-sensor for water quality.ナガエツルノゲイトウ / Alternanthera philoxeroidesSaponins, Flavonoids抗菌・抗炎症作用の研究 / Research on antimicrobial and anti-inflammatory effects.クズ / Pueraria montanaPuerarin, Isoflavones血流改善、解熱、デンプン供給 / Blood circulation, antipyretic, and starch supply.アレチウリ / Sicyos angulatusCucurbitacins抗腫瘍研究・バイオ燃料原料 / Antitumor research and biofuel feedstock.ホテイアオイ / Eichhornia crassipesPhytoremediation compounds重金属濃縮・バイオエタノール原料 / Heavy metal sequestration and bioethanol feedstock.ヨシ / Phragmites australisFlavonoids, Polysaccharides利尿、抗炎症（漢方利用） / Diuretic and anti-inflammatory (Traditional medicine).セイタカアワダチソウ / Solidago altissimaQuercetin, Tannins抗アレルギー、皮膚疾患用外用薬 / Anti-allergic and topical medicine for skin diseases.ミント / MenthaMenthol, Essential Oils鎮痛、殺菌、消化促進、害虫忌避 / Analgesic, bactericidal, digestive, and pest repellent.ドクダミ / Houttuynia cordataDecanoyl acetaldehyde, Quercitrin強力な殺菌、抗ウイルス、毒出し / Powerful bactericidal, antiviral, and detoxification.アイビー / Hedera helixSaponins (Hederacoside C)去痰、鎮咳作用 / Expectorant and antitussive effects.イタドリ / Reynoutria japonicaResveratrol抗酸化、血流改善、アンチエイジング / Antioxidant, blood circulation, and anti-aging.スギナ / Equisetum arvenseSilica, Flavonoids骨・爪の強化、代謝促進 / Bone/nail strengthening and metabolic promotion.マツ / PinusPycnogenol, Terpenes, Vit.C免疫強化、抗ウイルス、防腐 / Immune support, antiviral, and antiseptic.ジャンボタニシ / Pomacea canaliculataProtein, Calcium高タンパク栄養源・無機質還元 / High-protein nutritional source & mineral reduction.魚類 / PiscesOmega-3 (EPA/DHA), Protein脳機能維持・動物性栄養源 / Brain function maintenance & animal protein source.
 
+
+Gaia-Oasis: Integrated Water-Energy-Life Cycle Specification
+Gaia-Oasis: 水・エネルギー・生命統合循環システム仕様書
+1. Energy Layer: Physical Foundation
+1. 物理的基盤：エネルギー層
+M-TIA (Microwave-to-Electric Conversion):
+Integrated as a backing material for the tri-layer solar panel architecture. Converts vast desert thermal (IR) and ambient electromagnetic energy into electricity.
+三層式パネルの裏打ち材として実装。砂漠の広大な熱（赤外線）および周囲の電磁エネルギーを電力へ変換。
+
+Synergy: This power generation system induces a 'cooling effect' during operation, mitigating heat stress on vegetation and maximizing metabolic efficiency.
+この発電システムは稼働中も「冷却」を伴うため、パネルと直結する植物の熱ストレスを軽減し、代謝効率を最大化する。
+
+2. Biological Engine: Atmospheric Water Harvesting
+2. 生物学的集水：バイオ・エンジン
+Pinus (Primary Node): Passive surface water collection via dew harvesting on needles and 'Hydraulic Lift' to hydrate deep soil layers.
+「針葉による結露」および「ハイドロリック・リフト（深層水引き上げ）」による、受動的な地表保水。
+
+CAM-Metabolism Species (Secondary Node): Utilizes Agave and Ice Plant to capture moisture from nocturnal desert air with maximum efficiency, minimizing transpirative loss.
+アガベやアイスプラントを配置。夜間の湿度が高い砂漠気候を狙い、気孔を開いて水分を「吸着・細胞内封じ込め」を行う。
+
+3. Hybrid E-H2O Protocol: Active Synthesis
+3. 強制集水プロトコル：E-H2O (Hybrid E-H2O Protocol)
+Active Module: Utilizes M-TIA generated electricity to power thermoelectric (Peltier) cooling or MOF-based atmospheric water harvesting.
+M-TIAの電力を利用し、ペルチェ素子による強制結露、あるいはMOF（金属有機構造体）による吸着を行う。
+
+Integration: Injected directly into the Pinus rhizosphere via capillary-fed irrigation. Transforms desert soil into a 'living sponge' through the microbial network.
+生成された水は、「松の根圏（Rhizosphere）」に直結した配管（毛細管現象を利用）へ注入。微生物ネットワークを通じて地中へ浸透させ、土壌を「生きたスポンジ」へと変貌させる。
+
+[Operational Logic: The Cross-Domain Synergy]
+[運用アルゴリズム：領域横断的シナジー]
+Passive Phase (Nocturnal): M-TIA captures background EM/IR flux, powering thermoelectric cooling units. Pinus needles collect dew. E-H2O modules condense atmospheric moisture.
+受動フェーズ（夜間）： M-TIAが周囲の電磁・赤外線エネルギーを捕捉し、熱電変換装置を駆動。松の針葉が結露を回収し、E-H2Oモジュールが大気中の水分を凝縮する。
+
+Redistribution Phase (Root-Zone Injection): Collected water is injected into the Pinus rhizosphere. This triggers the 'Hydraulic Lift' effect, physically pulling moisture into the deeper soil layers, effectively 'recharging' the subterranean reservoir.
+再分配フェーズ（根圏注入）： 回収した水を松の根圏へ注入。これにより「ハイドロリック・リフト」が誘発され、水分が物理的に深層土壌へ引き込まれ、地下貯水層を効果的に「再充電」する。
+
+Active Phase (Diurnal): The vegetation-cooled PV array operates at peak efficiency due to the lower ambient temperature of the moisture-saturated micro-climate.
+能動フェーズ（昼間）： 水分で飽和した微気候により周辺温度が低下し、植生に冷却された太陽光発電（PV）アレイが最高効率で稼働する。
+
+Goal: Transition from 'Resource Consumption' to 'Resource Generation' within the closed loop. The system acts as a living, self-maintaining atmospheric water synthesizer.
+目標： 閉鎖系内における「資源消費」から「資源生成」への転換。本システムは、自律的に維持される「生きた大気水合成プラント」として機能する。
