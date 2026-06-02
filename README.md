@@ -53,7 +53,7 @@ A biological engine that converts inorganic matter into organic matter and conti
 
 
 
-6. 免責事項（Legal Disclaimer）
+9. 免責事項（Legal Disclaimer）
 本ドキュメントは理論的シミュレーションに基づく「概念設計（思考実験）」です。実証実験は行われておらず、作成者は本プロトコルの安全性や運用結果について一切の責任を負いません。本技術は人類の共有財産として公開されるものであり、実装および運用に関わるリスクは全て実装主体に帰属します。
 This document is a "conceptual design (thought experiment)" based on theoretical simulations. No practical experiments have been conducted, and the author assumes no responsibility for the safety or operational results of this protocol. This technology is released as a common heritage of humanity, and all risks associated with implementation and operation remain with the implementer.
 
