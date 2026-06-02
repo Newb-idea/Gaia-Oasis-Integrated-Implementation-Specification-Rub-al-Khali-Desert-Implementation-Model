@@ -1,7 +1,7 @@
 # Gaia-Oasis-Integrated-Implementation-Specification-Rub-al-Khali-Desert-Implementation-Model
 This project aims to build a completely closed-loop survival infrastructure in the extreme environment of the Rub' al Khali desert core, eliminating the need for external supplies (power, materials, water) by autonomously producing and circulating oxygen and organic resources using only local resources (sand, sunlight, CO2, minerals).
 
-
+権利の完全放棄 / Universal Waiver of Rights • 公共財の宣言 / Public Domain: 本技術は人類共通の資産（Public Domain）である。 / This technology is a universal asset for humanity. • 権利放棄 / Waiver: 開発者は、本技術に関する一切の特許権、意匠権、および商業的権益を永久に放棄する。 / The developer permanently waives all patent, design, and commercial rights. • 独占の禁止 / Prohibition: 第三者による本技術の独占的利用、特許出願、または商標登録は、公知の事実に基づき永久に拒絶される。 / Any attempt by third parties to monopolize, patent, or trademark this technology is permanently rejected as it is now public knowledge.
 
 Gaia-Oasis 統合実装仕様書：ルブアルハリ砂漠実装モデル
 Gaia-Oasis Integrated Implementation Specification: Rub' al Khali Desert Implementation Model
