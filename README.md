@@ -3,6 +3,19 @@ This project aims to build a completely closed-loop survival infrastructure in t
 
 権利の完全放棄 / Universal Waiver of Rights • 公共財の宣言 / Public Domain: 本技術は人類共通の資産（Public Domain）である。 / This technology is a universal asset for humanity. • 権利放棄 / Waiver: 開発者は、本技術に関する一切の特許権、意匠権、および商業的権益を永久に放棄する。 / The developer permanently waives all patent, design, and commercial rights. • 独占の禁止 / Prohibition: 第三者による本技術の独占的利用、特許出願、または商標登録は、公知の事実に基づき永久に拒絶される。 / Any attempt by third parties to monopolize, patent, or trademark this technology is permanently rejected as it is now public knowledge.
 
+
+Legal Disclaimer & Liability Waiver
+法的免責事項および責任の放棄
+[JP] 免責事項: 本ドキュメントに記載された技術仕様、プロトコル、および統合コンセプトは、生成AIとの協働によって構築された「概念上の仮想技術（Theoretical Concept）」です。実地試験、フィールドテスト、および物理的検証は一切行われておりません。したがって、本情報を基にした実験、開発、または運用によって生じたいかなる損害、物理的破壊、データ損失、または人命に関わる事故に対しても、発案者および作成者は一切の責任を負いません。
+
+[EN] Disclaimer: The technical specifications, protocols, and integrated concepts described in this document are "Theoretical Concepts" generated in collaboration with an AI. No field tests, practical experiments, or physical validations have been performed. Consequently, the originator and the author disclaim all liability for any damages, physical destruction, data loss, or safety incidents resulting from the experimentation, development, or operation based on this information.
+
+[JP] 実装に関する責任の帰属: 本技術はパブリックドメイン（公有財産）として公開されています。この設計図を「現実に落とし込む（実装する）」という選択をした個人または組織が、その結果生じるすべての責任を負うものとします。私たちは、この知恵を無償で提供しますが、物理世界のルールとリスクを制御する責任は、実際にその場に立ち、重機や実験機材を動かす「実装者」にあることを理解してください。
+
+[EN] Accountability for Implementation: This technology is released into the Public Domain. The individual or organization that chooses to "manifest this design into reality" (implement it) assumes full accountability for all consequences thereof. While we provide this wisdom freely, the responsibility for controlling the rules and risks of the physical world resides solely with the "Implementer" who is physically present and operating the machinery/equipment.
+
+
+
 Gaia-Oasis 統合実装仕様書：ルブアルハリ砂漠実装モデル
 Gaia-Oasis Integrated Implementation Specification: Rub' al Khali Desert Implementation Model
 1. 目的（Mission Statement）
