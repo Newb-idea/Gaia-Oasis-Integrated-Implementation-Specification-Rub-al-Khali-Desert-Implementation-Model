@@ -38,13 +38,14 @@ A biological engine that converts inorganic matter into organic matter and conti
 植物 / Plant	アレチウリ	Sicyos angulatus	CO2の有機炭素変換・酸素発生 / CO2 conversion & Oxygen generation
 水生 / Aquatic	ホテイアオイ	Eichhornia crassipes	重金属隔離・バイオマス生成 / Heavy metal isolation & Biomass generation
 水生 / Aquatic	ヨシ	Phragmites australis	根圏での物質浄化・循環 / Rhizosphere purification & Circulation
+陸上植物　セイタカアワダチソウ　Solidago altissima　アレロパシーによる陣地確保・深層根による地下炭素貯留
 植物 / Plant	イタドリ	Reynoutria japonica	硬質バイオマス蓄積・環境耐性 / Biomass accumulation & Resilience
 植物 / Plant	スギナ	Equisetum arvense	無機ケイ素の生物学的構造固定 / Biological silica fixation
 植物 / Plant	マツ	Pinus	長期炭素貯蔵・酸素発生 / Long-term carbon storage & Oxygen generation
 動物 / Animal	ジャンボタニシ	Pomacea canaliculata	有機物摂食・無機質還元・速度調整 / Organic consumption & Inorganic reduction
 動物 / Animal	魚類 / Fish	Pisces	代謝プロセス統合・物質循環加速 / Metabolic integration & Circulation acceleration
 
-5. 閉鎖運用プロトコル（理論設計）
+6. 閉鎖運用プロトコル（理論設計）
 物理的封じ込め: 完全気密構造により、系外への物質漏洩を遮断。
 
 栄養飢餓スイッチ: 系外への種や栄養の漏洩を検知した場合、必須元素（窒素・リン）をゲート制限し、プラントを物理的に封印（枯死）させる安全装置。
