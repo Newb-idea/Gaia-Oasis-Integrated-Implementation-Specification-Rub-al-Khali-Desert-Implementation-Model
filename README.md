@@ -40,6 +40,14 @@ o	Deploys "Miura-ori" origami geometry. Distributes and absorbs wind pressure fr
 •	ナノ積層界面 (Katana Lamination Theory): 日本刀の「折り返し鍛錬」に類する数万層のナノ積層界面を壁面に実装。高純度シリカがインピーダンス整合を行い、広帯域電磁波ノイズを物理的に遮断。
 o	Implements a nano-layered interface analogous to the "folding and forging" of a Japanese sword. High-purity silica performs impedance matching to physically block broadband EM noise.
 4. 第III層：生物循環層（Gaia-OS）
+
+"Phase 0: Soil Priming Protocol (Microbial Inoculation)"
+
+Operation: Prior to vegetative introducing, the desert silicate matrix must be inoculated with a composite microbial cocktail (Mycorrhizal fungi, Hydrogen-oxidizing bacteria, and EM consortia).
+
+Purpose: Establishes a bio-film matrix to convert raw sand into a water-retaining sponge, ensuring instantaneous degradation of future allelochemicals and immediate fixing of nascent hydrogen.
+（フェーズ0：土壌プライミングプロトコル（微生物接種）。操作：植物を導入する前に、砂漠のシリカ基質に複合微生物カクテル（菌根菌、水素酸化細菌、EM菌群）を接種しなければならない。目的：バイオフィルムの基質を形成して生の砂を保水性のスポンジに変え、将来発生するアレロパシー物質の即時分解と、発生する水素の即時固定を保証する。）
+
 4. Layer 3: Biological Circulation Layer (Gaia-OS)
 閉鎖空間内で無機物を有機物へ変換し、酸素を吐き出し続ける生体エンジンです。
 A biological engine that converts inorganic matter into organic matter and continuously produces oxygen within a closed space.
